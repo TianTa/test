@@ -1,2 +1,2 @@
-This is a file of colors
-red 255 0 0
+This is a file of rgb values colors 
+255 0 0
